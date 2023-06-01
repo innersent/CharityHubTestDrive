@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_page"
+        android:title="Домой"
+        android:icon="@drawable/home_button" />
+    <item
+        android:id="@+id/chat_page"
+        android:title="Сообщения"
+        android:icon="@drawable/chat_button" />
+    <item
+        android:id="@+id/create_page"
+        android:title="Добавить объявление"
+        android:icon="@drawable/create" />
+    <item
+        android:id="@+id/search_page"
+        android:title="Поиск"
+        android:icon="@drawable/search_button" />
+    <item
+        android:id="@+id/profile_page"
+        android:title="Профиль"
+        android:icon="@drawable/profile_button" />
+
+</menu>
